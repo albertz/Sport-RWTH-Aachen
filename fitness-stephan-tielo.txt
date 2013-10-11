@@ -1,3 +1,7 @@
+# Fitness mit Musik / Kontakthüpfen
+
+Zeiten entsprechen Musikposition von entsprechendem Track aus der CD.
+
 ## Warm Up & Cardio
 
 0:00 warmlaufen

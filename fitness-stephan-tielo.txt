@@ -1,4 +1,4 @@
-# Fitness mit Musik / Kontakthüpfen
+# Fitness mit Musik / Kontakthüpfen by Stephan Tielo
 
 Zeiten entsprechen Musikposition von entsprechendem Track aus der CD.
 
@@ -22,7 +22,7 @@ Zeiten entsprechen Musikposition von entsprechendem Track aus der CD.
 
 Fortsetzung nach "Warm Up & Cardio"
 
-hüpfen:
+0:00 im Kreis laufen
 0:20 knie hoch, nach innen, weiter im kreis
 0:39 Hände hoch, weiter
 1:42 stehen bleiben, weiter
@@ -95,8 +95,6 @@ hüpfen:
 
 ## Floor
 
-hüpfen:
-
 0:00 auf linke Seite legen, rechtes Bein gestreckt angespannt hoch, linkes Bein auch gestreckt angespannt und leicht vom boden weg, beide füße parallel zum boden, Fußspitzen angespannt
 1:57? anderes (linkes) Bein nach oben, rechtes bleibt oben
 2:52 Seitstütz auf linkem arm, rechtes Bein nach oben Bewegung
@@ -110,6 +108,11 @@ hüpfen:
 ? anderes (rechtes) Bein hoch, linkes Bein bleibt oben
 ? Seitstütz auf rechtem Arm, linkes Bein nach oben Bewegung
 ? Seitstütz weiter, linkes Bein angewinkelt, Ellbogen vom linken Arm + Knie vom linken Bein zusammenführen
+
+? auf Bauch legen, arme seitlich leicht kreisend nach vorne
+? Arme auf Rücken zusammenführen
+? Arme wieder nach vorne, leicht hoch+runter, analog die Beine hoch+runter
+
 6:50 ende
 
 ## Endspurt
